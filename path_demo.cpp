@@ -3,7 +3,7 @@
 #include "filesystem/resolver.h"
 
 using namespace std;
-using namespace filesystem;
+using namespace Wenzel::filesystem;
 
 int main(int argc, char **argv) {
 #if !defined(WIN32)
